@@ -1,3 +1,6 @@
 *
 !.gitignore
 !example.conf
+!http.conf
+!https.conf
+!common.conf
