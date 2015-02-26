@@ -3,4 +3,6 @@
 !example.conf
 !http.conf
 !https.conf
+!http.dev.conf
+!https.dev.conf
 !common.conf
